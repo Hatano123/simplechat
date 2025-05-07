@@ -6,7 +6,7 @@ import urllib.error
 
 # FastAPIエンドポイントのURL (ngrokのURL)
 # 必ず末尾に /generate を追加してください
-FASTAPI_ENDPOINT_URL = "https://YOUR_NGROK_URL.ngrok-free.app/generate" # 例: https://70fa-34-123-186-226.ngrok-free.app/generate
+FASTAPI_ENDPOINT_URL = "https://e5ac-34-123-186-226.ngrok-free.app/generate" # 例: https://70fa-34-123-186-226.ngrok-free.app/generate
 
 def lambda_handler(event, context):
     try:
